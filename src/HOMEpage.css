@@ -1,0 +1,32 @@
+.inputONE{
+    display: inline-block;
+}
+.send{
+    color: red;
+    background-color: rgb(187, 236, 220);
+    margin-right: 1100px;
+    border-color: yellow;
+    border: none;
+    margin-top: 5px;
+    border-radius: 6px;
+
+}
+.origin{
+    margin-left: 1100px;
+    border-radius: 6px;
+       }
+.button{
+        background-color:yellow;
+        color:black;
+        font-size: large;
+        font-family: 'Courier New', Courier, monospace;
+    }
+.button:active{
+        background-color: red;
+        color: white;
+       
+    }
+.input{
+        background: linear-gradient(80deg,burlywood 2%, white 33%, burlywood 3%, white 66%, burlywood 5%, white 100%,yellow 22%,yellow);
+        
+    }
